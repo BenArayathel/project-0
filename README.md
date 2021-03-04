@@ -46,7 +46,8 @@ Total Points: 23 points (the points correspond to the difficulty of the task)
 * An employee, I can view a log of all transactions.
 	* 2 points
 	
-NOTE: The user stories are an informal, easy to follow description of a feature needed for an application. It will not encompass all the details a task will require, for example when a user signs up for an account, they should provide a username and password, or if a user can login, then they should be able to log out! Keep this in mind when completing user stories, 
+NOTE: The user stories are an informal, easy to follow description of a feature needed for an application. It will not encompass all the details a task will require, for example when a user signs up for an account, they should provide a username and password, or if a user can login, then they should be able to log out! Keep this in mind when completing user stories. 
+
 NOTE: Additional functionalities can be implemented, but the priority is the user stories. It's highly recommended to complete those before adding extra features. 
 
 Project Evaluation Parameters
