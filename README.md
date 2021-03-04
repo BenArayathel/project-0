@@ -18,9 +18,11 @@
 
 
 ## User Stories
-Total Points: 23 points (the points correspond to the difficulty of the task)
+Total Points: 26 points (the points correspond to the difficulty of the task)
 
-* As a user, I can register for a customer account.
+* As a user, I can register for a customer account (checking or savings or both!).
+	* 3 points
+* (Stretch goal) As a user, I can apply for a joint account 
 	* 3 points
 * As a user, I can login.
 	* 2 points
@@ -45,6 +47,7 @@ Total Points: 23 points (the points correspond to the difficulty of the task)
 	* 2 points
 * An employee, I can view a log of all transactions.
 	* 2 points
+
 	
 NOTE: The user stories are an informal, easy to follow description of a feature needed for an application. It will not encompass all the details a task will require, for example when a user signs up for an account, they should provide a username and password, or if a user can login, then they should be able to log out! Keep this in mind when completing user stories. 
 
